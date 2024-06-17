@@ -1,0 +1,36 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: Rubik;
+    src: url(/src/fonts/Rubik-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: Teko;
+    src: url(/src/fonts/Teko-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: Oswald;
+    src: url(/src/fonts/Oswald-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: BebasNeue;
+    src: url(/src/fonts/BebasNeue-Regular.ttf);
+}
+
+@font-face {
+    font-family: YanoneKaffeesatz;
+    src: url(/src/fonts/YanoneKaffeesatz-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: TitilliumWeb;
+    src: url(/src/fonts/TitilliumWeb-Regular.ttf);
+}
+
